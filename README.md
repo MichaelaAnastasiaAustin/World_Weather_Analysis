@@ -1,4 +1,3 @@
-Weather_Database_csv_screenshot.png World_Weather_Analysis
 
 ## Background and Overview
 
